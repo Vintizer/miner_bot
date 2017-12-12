@@ -1,0 +1,50 @@
+{
+    "users": {
+        "jack": {
+            "poloniex": {
+                "secret": "test",
+                "api": "test"
+            },
+            "bittrex": {
+                "secret": "test",
+                "api": "test"
+            },
+            "ethermine": {
+                "wallet": "0xdedad26435cd515f9dfe47a09d0f4b4ca6b6890b"
+            },
+            "coinmine": {
+                "userId": 213456,
+                "api": "dsfsfwerwrew",
+                "coin": "dcr"
+            }
+        },
+        "Vintizer": {
+            "poloniex": {
+                "secret": "qweqwe",
+                "api": "api"
+            },
+            "bittrex": {
+                "secret": "qweqwe",
+                "api": "api"
+            },
+            "ethermine": {
+                "wallet": "dedad26435cd515f9dfe47a09d0f4b4ca6b6890b"
+            },
+            "coinmine": {
+                "userId": 213456,
+                "api": "dsfsfwerwrew",
+                "coin": "dcr"
+            }
+        },
+        "endorforce": {
+            "ethermine": {
+                "wallet": "dedad26435cd515f9dfe47a09d0f4b4ca6b6890b"
+            }
+        },
+        "undefined": {
+            "ethermine": {
+                "wallet": "27D03824b4671cF6f297550201e698d039AC9eD3"
+            }
+        }
+    }
+}
